@@ -18,3 +18,5 @@ Domain: **Customer Service**
   
 - Visualize the complaint types
   - Display the major complaint type and their count
+  - which Borough has the maximum number of noise complaints?
+  - which Borough complaints more about noise?
